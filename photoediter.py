@@ -1,7 +1,7 @@
 import os
 from symbol import factor
 from PIL import Image,ImageEnhance,ImageFilter
-import sys
+
 
 path = './imgs'
 pathout = '/editedimgs'
